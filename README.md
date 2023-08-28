@@ -1,6 +1,6 @@
-# Apresentação
-<h3> Olá a todos, prazer Carlos Iure, estou iniciando na carreira de Desenvolvedor agora :)
-Tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. 
+<h2> Hello World !</h2>
+<h4> Sou Carlos Iure Gordiano, estou iniciando na carreira de Desensenvolvedor,
+ tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. 
 Focado principalmente na parte Front-End, estou avançando meus conhecimentos em termos 
 básicos como Html-Css-JavaScript, mas não penso muito só nesta parte, atualmente estou 
 trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
@@ -14,7 +14,12 @@ ____
 </div>
 
 ____
+
+
+![Snake animation](https://github.com/C1ure/C1ure/blob/output/github-contribution-grid-snake.svg)
+
  
+____
 
 <h1 style="font-weigth:bold"> Atualmente Estudando:</h1> 
   <div>
