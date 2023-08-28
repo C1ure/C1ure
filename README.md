@@ -16,7 +16,7 @@ ____
 ____
 
 
-![Snake animation](https://github.com/C1ure/C1ure/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C1ure&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 ____
