@@ -1,10 +1,4 @@
-<h2> Hello World !</h2>
-<h4> Sou Carlos Iure Gordiano, estou iniciando na carreira de Desensenvolvedor,
- tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. 
-Focado principalmente na parte Front-End, estou avançando meus conhecimentos em termos 
-básicos como Html-Css-JavaScript, mas não penso muito só nesta parte, atualmente estou 
-trabalhando em um projeto React-Native afim de expandir conhecimentos :) </h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=875&height=325&separator=%3C&lines=Hello+Word+!++%3CSou+Carlos+Iure+Gordiano+dos+Santos%2Ctenho+20+anos%3CEstou+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%3CFocado+principalmente+na+parte+Front-End;%3CEstou+avan%C3%A7ando+meus+conhecimentos+estudando%3CHtml-Css-JavaScript%2C+mas+n%C3%A3o+penso+muito+s%C3%B3+nesta+parte%2C%3CEstudo+tambem+ReactJS+juntamente+com+BootStrap;%3CAssim+como+o+meu+foco%3A+React-Native%3Cafim+de+desenvolver+para+Mobile+(Ios-Android)+%3A)](https://git.io/typing-svg)
 ____
 
 <div align="center">
@@ -19,16 +13,4 @@ ____
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=C1ure&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
-____
 
-<h1 style="font-weigth:bold"> Atualmente Estudando:</h1> 
-  <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60em"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="60em"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60em"/>
-  </div>
-
- <h1>Desenvolvimento Mobile usando React-Native para os Sistemas: </h1>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width="60em" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60em" />
-  
